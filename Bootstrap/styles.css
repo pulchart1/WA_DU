@@ -1,0 +1,46 @@
+.orangeBox{
+    font-size: 2rem;
+    background-color: #b94b22;
+    text-align: center;
+    height: 210px;
+}
+.yellowBox{
+    font-size: 2rem;
+    background-color: #cf922f;
+    text-align: center;
+    height: 210px;
+    
+}
+.redBox{
+    font-size: 2rem;
+    text-align: center;
+    background-color: #a32327;
+    height: 210px;
+}
+.footerBox{
+     font-size: 2rem;
+    text-align: center;
+    background-color:rgb(180, 141, 219);
+    height: 210px;
+    padding: 10px;
+    
+}
+body {
+  margin-top: 40px; /* This margin just makes the text easier to read. You can remove it if you want since it can mess with your other styles. */
+}
+
+
+footer{
+    background-color:rebeccapurple;
+}
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+  }
+
+
+
+
+/* This box class is purely used for explaining how the bootstrap grid system works. */
+
